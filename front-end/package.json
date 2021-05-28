@@ -1,6 +1,6 @@
 {
   "name": "front-end",
-  "proxy": "https://procomp.herokuapp.com/",
+  "proxy": "https://procomputers.herokuapp.com/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
